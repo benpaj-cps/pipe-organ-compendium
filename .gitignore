@@ -1,0 +1,3 @@
+# Exclude local Quarto output
+/.quarto/
+/_site/
