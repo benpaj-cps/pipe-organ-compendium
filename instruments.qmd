@@ -1,0 +1,20 @@
+---
+title: "Instruments"
+format:
+  html:
+    toc: true
+---
+## Overview
+The pipe organ has a vast history extending to [ancient Alexandria](https://en.wikipedia.org/wiki/Water_organ), but the instrument began to more closely resemble what we see today [during the Middle Ages](https://en.wikipedia.org/wiki/Pipe_organ#Medieval) in Europe, where it became a staple of Roman Catholic liturgy. Although instruments across the continent had similar traits and mechanics, by the Baroque era there were sweeping regional differences in construction and especially in tonal design. Even though the centuries of intervening development and global diffusion of technique mean that, for example, French Romantic traits can be observed in instruments from Charlestown to China, one can still identify national schools of organbuilding in modern-day work. 
+
+On a more concrete level, each organbuilder and each instrument for the most part are quite unique. The design and execution of a pipe organ (both visual and tonal) has always been a lengthy endeavor highly influenced both by prevailing stylistic ideals and the acoustical parameters of the church or hall for which it is built. Add to this variety the observation that no two stops of the same name on two different instruments ever sound fully alike (for even if they are built identically they are subject to different acoustics), and comparative analysis of pipe organs becomes quite a fascinating subject.
+
+Here the sheer volume of the Internet comes into play.
+
+## Databases
+
+### [pipeorgandatabase.org](https://pipeorgandatabase.org/)
+Created by the [Organ Historical Society](https://organhistoricalsociety.org/). Contains information on over 70,000 pipe organs in the US (!), with many excellent photographs. 
+
+### [Die Orgelseite](https://die-orgelseite.de/index_e.html)
+Although much of the content is behind a paywall, the site provides stoplists and photos for the largest instruments in Germany, the US, and some others.
