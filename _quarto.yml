@@ -1,6 +1,9 @@
 project:
   type: website
 
+execute:
+  freeze: auto
+
 website:
   title: "A Pipe Organ Compendium"
   navbar:
@@ -27,6 +30,3 @@ format:
     css: styles.css
     toc: true
   
-
-
-

@@ -1,3 +1,4 @@
 # Exclude local Quarto output
 /.quarto/
 /_site/
+**/*.quarto_ipynb
