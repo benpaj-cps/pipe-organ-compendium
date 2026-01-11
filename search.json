@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "technique.html",
-    "href": "technique.html",
-    "title": "Technique",
-    "section": "",
-    "text": "To be added."
-  },
-  {
     "objectID": "instruments.html",
     "href": "instruments.html",
     "title": "Instruments",
@@ -28,6 +21,27 @@
     "text": "Databases\n\npipeorgandatabase.org\nCreated by the Organ Historical Society. Contains information on over 70,000 pipe organs in the US (!), with many excellent photographs.\n\n\nDie Orgelseite\nAlthough much of the content is behind a paywall, the site provides stoplists and photos for the largest instruments in Germany, the US, and some others."
   },
   {
+    "objectID": "technique.html",
+    "href": "technique.html",
+    "title": "Technique",
+    "section": "",
+    "text": "To be added."
+  },
+  {
+    "objectID": "repertoire.html",
+    "href": "repertoire.html",
+    "title": "Repertoire",
+    "section": "",
+    "text": "To be added."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "A Pipe Organ Compendium",
+    "section": "",
+    "text": "Introduction\nThe goal of this site is to assist the student of the pipe organ by collecting and contextualizing some of the many freely available Internet resources pertaining to the instrument.\nIt is not intended as either a complete introduction to the pipe organ or a scholarly review of relevant resources. Rather, it serves to facilitate the rapid discovery and comprehension of some of the many existing resources on a variety of topics that I have found over the years.\nLinks to the Compendium’s resource pages may be found in the header above.\n(To whet your intellectual and musical appetite, enjoy this recording of early 20th-century Canadian-American organ virtuoso Lynwood Farnam’s Toccata by British-Australian organist Simon Nieminski.)"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -47,19 +61,5 @@
     "title": "About",
     "section": "Technical details",
     "text": "Technical details\nThis site was made with Quarto and the Lux Bootswatch theme."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "A Pipe Organ Compendium",
-    "section": "",
-    "text": "Introduction\nThe goal of this site is to assist the student of the pipe organ by collecting and contextualizing some of the many freely available Internet resources pertaining to the instrument.\nIt is not intended as either a complete introduction to the pipe organ or a scholarly review of relevant resources. Rather, it serves to facilitate the rapid discovery and comprehension of some of the many existing resources on a variety of topics that I have found over the years.\nLinks to the Compendium’s resource pages may be found in the header above.\n(To whet your intellectual and musical appetite, enjoy this recording of early 20th-century Canadian-American organ virtuoso Lynwood Farnam’s Toccata by British-Australian organist Simon Nieminski.)"
-  },
-  {
-    "objectID": "repertoire.html",
-    "href": "repertoire.html",
-    "title": "Repertoire",
-    "section": "",
-    "text": "To be added."
   }
 ]
