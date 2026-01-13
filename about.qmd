@@ -7,7 +7,7 @@ The declining number of active organists in churches holding to historic Christi
 However:
 
 * Pipe organ manual (keyboard) technique is an extension of piano technique;
-* There are several time-honored, out-of-copyright textbooks on developing pianists' technique into that of an organist, available online;
+* There are several time-honored, out-of-copyright [textbooks](./technique.qmd#classic-texts) on developing pianists' technique into that of an organist, available online;
 * There is a wealth of information on the Internet regarding the other aspects of pipe organ playing (registration, interpretation, historical "ear training", etc.);
 * It can be difficult for the beginning student to find and fully contextualize this information without additional background knowledge.
 
